@@ -149,7 +149,7 @@ html{
 #slider{
   margin-top: 46px;
   padding-top: 50%;
-  background-image: url('/assets/css/img/Slider/slider1.jpg');
+  background-image: url('../assets/css/img/Slider/slider1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position:top center;
